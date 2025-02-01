@@ -30,7 +30,7 @@
 
 <!-- 블로그 & GitHub -->
 <section class="links">
-  <a href="https://your-blog.tistory.com" target="_blank">📖 블로그</a>
+  <a href="https://ima9ine.tistory.com" target="_blank">📖 블로그</a>
   <a href="https://github.com/{githubUsername}" target="_blank">💻 GitHub</a>
 </section>
 
