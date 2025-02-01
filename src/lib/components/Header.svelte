@@ -10,6 +10,9 @@
                 <a href="https://ima9ine.tistory.com">Blog</a>
             </li>
             <li>
+                <a href="/guestbook" class="contact-button">Guestbook</a>
+            </li>
+            <li>
                 <a href="mailto:ima9ine4@gmail.com" class="contact-button">Contact</a>
             </li>
         </ul>
